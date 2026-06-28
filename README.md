@@ -50,7 +50,7 @@ Answer
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/rag-pipeline-langchain.git
+https://github.com/Yazhini-Rajesh/rag-pipeline-langchain.git
 
 cd rag-pipeline-langchain
 
